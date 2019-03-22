@@ -1,0 +1,18 @@
+Enter heroes bellow this line, 1 per line, no spaces, caps per word.
+ChallengerDominiel
+Bellona
+Diene
+Angelica
+Tamarinne
+Luna
+Lidica
+Cecilia
+AssassinColi
+Karin
+Kluri
+Yufine
+Yuna
+Iseria
+Kise
+Schuri
+Cermia
