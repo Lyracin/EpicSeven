@@ -1,5 +1,0 @@
-Enter heroes bellow this line, 1 per line, no spaces, caps per word.
-ChallengerDominiel
-Bellona
-Diene
-Angelica
