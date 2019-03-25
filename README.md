@@ -1,4 +1,6 @@
 # EpicSeven Morale Calculator
+Program written in java
+
 This is a program to calculate the maximum morale combinations based on the selected characters. 
 Input your choices into Choices.txt, 1 hero per line, no spaces in between words, and caps per word. For example, Church of Ilryos Axe would be ChurchOfIlryosAxe. If no choices are entered, all heroes will be selected.
 The output will be sent to Best Combinations.txt
