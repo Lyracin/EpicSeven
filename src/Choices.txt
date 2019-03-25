@@ -1,0 +1,1 @@
+Enter the heroes you want bellow this line, 1 per line, no spaces, caps per word.

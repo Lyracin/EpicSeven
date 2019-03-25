@@ -1,0 +1,2 @@
+Write includes below this line. At least one will be in each team. If left blank, all teams will be generated. One hero per line, no spaces, caps per word
+Cermia
